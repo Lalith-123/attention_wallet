@@ -9,9 +9,9 @@ This is a README you can drop into the root of your BrainBank project and adjust
 
 ***
 
-# BrainBank – Attention Wallet for Kids
+# Attentin Wallet for Kids
 
-BrainBank is a React + Tailwind app that turns screen time into a token economy. Kids earn tokens by doing healthy activities and spend them on apps, making attention and time more visible and intentional.
+Attentin Wallet is a React + Tailwind app that turns screen time into a token economy. Kids earn tokens by doing healthy activities and spend them on apps, making attention and time more visible and intentional.
 
 ***
 
