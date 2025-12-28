@@ -22,7 +22,7 @@ export default function EarnTab({ activities, onActivitySelect }) {
         <div className="text-4xl animate-bounce">🦊</div>
       </div>
       <p className="text-purple-600 mb-6 font-medium">
-        Do healthy activities to earn shiny Brain Coins. Every 5 minutes = 1
+        Do healthy activities to earn shiny Brain Coins. Every 2 minutes = 1
         coin! 🪙
       </p>
 
