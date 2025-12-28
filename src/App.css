@@ -1,8 +1,3 @@
-@import "tailwindcss";
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 @keyframes bounce {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-10px); }
@@ -29,19 +24,22 @@
   100% { transform: scale(1.5); opacity: 0; }
 }
 
+.animate-bounce {
+  animation: bounce 2s infinite;
+}
+
+.animate-pulse-custom {
+  animation: pulse 1s infinite;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.3s ease;
+}
+
 .coin-pop {
   position: fixed;
   font-size: 24px;
   animation: coinPop 0.8s ease-out forwards;
   pointer-events: none;
   z-index: 2000;
-}
-
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
