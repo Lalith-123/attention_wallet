@@ -2,7 +2,7 @@
 
 attention_wallet is deployed on GitHub Pages.
 
-Live demo: https://lalith-123.github.io/attention_wallet/ [web:98]
+Live demo: https://lalith-123.github.io/attention_wallet/
 
 
 This is a README you can drop into the root of your BrainBank project and adjust as needed.
